@@ -117,5 +117,5 @@ class Queues
             cout << endl;
         }
     }
-};
+}; 
 }
